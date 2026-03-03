@@ -1,6 +1,6 @@
 ---
 name: pestle-analysis
-description: "Perform a PESTLE analysis covering Political, Economic, Social, Technological, Legal, and Environmental factors. Use for macro-environment assessment or strategic planning. Triggers: PESTLE analysis, macro environment, external factors."
+description: "Perform a PESTLE analysis covering Political, Economic, Social, Technological, Legal, and Environmental factors. Use when assessing the macro environment, doing strategic planning, or evaluating external factors affecting your business."
 ---
 # PESTLE Analysis
 

@@ -1,6 +1,6 @@
 ---
 name: product-name
-description: "Brainstorm 5 unique, memorable product names with rationale aligned to brand values and target audience. Use when naming a new product or rebranding. Triggers: product name, name ideas, brand name, naming."
+description: "Brainstorm 5 unique, memorable product names with rationale aligned to brand values and target audience. Use when naming a new product, rebranding, or exploring product name ideas."
 ---
 # Product Name
 

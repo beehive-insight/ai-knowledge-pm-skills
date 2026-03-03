@@ -1,6 +1,6 @@
 ---
 name: outcome-roadmap
-description: "Transform an output-focused roadmap into an outcome-focused one. Rewrites initiatives as outcome statements reflecting user and business impacts. Use when shifting from output to outcome roadmaps, rewriting a feature roadmap, or making a roadmap more strategic. Triggers: outcome roadmap, outcome-focused, rewrite roadmap, strategic roadmap, outcome statements."
+description: "Transform an output-focused roadmap into an outcome-focused one that communicates strategic intent. Rewrites initiatives as outcome statements reflecting user and business impacts. Use when shifting to outcome roadmaps, making a roadmap more strategic, or rewriting feature lists as outcomes."
 ---
 
 # Transform Roadmap to Outcome-Focused Format

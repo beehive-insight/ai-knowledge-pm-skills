@@ -1,6 +1,6 @@
 ---
 name: competitor-analysis
-description: "Analyze competitors with strengths, weaknesses, and differentiation opportunities. Identifies 5 direct competitors and maps the competitive landscape. Use when doing competitive research, preparing a competitive brief, or finding differentiation opportunities. Triggers: competitor analysis, competitive landscape, who are our competitors, competitive research, differentiation."
+description: "Analyze competitors with strengths, weaknesses, and differentiation opportunities. Identifies direct competitors and maps the competitive landscape. Use when doing competitive research, preparing a competitive brief, or finding differentiation opportunities."
 ---
 
 # Competitor Analysis

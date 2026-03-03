@@ -1,6 +1,6 @@
 ---
 name: north-star-metric
-description: "Identify a North Star Metric and 3-5 Input Metrics. Classifies the business game (Attention, Transaction, Productivity) and validates against 7 criteria. Triggers: North Star metric, key metric, what to measure, metrics framework."
+description: "Define a North Star Metric and 3-5 supporting input metrics that form a metrics constellation. Classify the business game (Attention, Transaction, Productivity) and validate against 7 criteria for an effective North Star. Use when choosing a North Star Metric, setting up a metrics framework, learning about the North Star Framework, or deciding what to measure."
 ---
 # North Star Metric
 

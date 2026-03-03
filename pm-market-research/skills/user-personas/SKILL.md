@@ -1,6 +1,6 @@
 ---
 name: user-personas
-description: "Create refined user personas from research data. Generates 3 personas with JTBD, pains, gains, and unexpected insights. Use when building personas from survey data, creating user profiles from research, or segmenting users for product decisions. Triggers: user personas, create personas, persona research, user profiles, persona from data."
+description: "Create refined user personas from research data — 3 personas with JTBD, pains, gains, and unexpected insights. Use when building personas from survey data, creating user profiles from research, or segmenting users for product decisions."
 ---
 
 # User Personas

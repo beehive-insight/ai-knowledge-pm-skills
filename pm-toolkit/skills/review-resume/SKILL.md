@@ -1,6 +1,6 @@
 ---
 name: review-resume
-description: "Comprehensive PM resume review and tailoring against 10 best practices including XYZ+S formula, keyword optimization, job-specific tailoring, and structure. Provides personalized, actionable feedback with specific examples. Triggers: review resume, resume feedback, resume review, check my resume, adjust resume, tailor resume, resume for job, customize resume, resume optimization."
+description: "Comprehensive PM resume review and tailoring against 10 best practices including XYZ+S formula, keyword optimization, job-specific tailoring, and structure. Use when reviewing a PM resume, preparing for job applications, or improving resume impact."
 ---
 # Resume Review for Product Managers
 

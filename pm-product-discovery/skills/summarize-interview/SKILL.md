@@ -1,6 +1,6 @@
 ---
 name: summarize-interview
-description: "Summarize a customer interview transcript into a structured template with JTBD, satisfaction signals, and action items. Use when processing customer interview recordings or transcripts, synthesizing discovery interviews, or creating interview summaries. Triggers: summarize interview, customer interview notes, interview summary, discovery interview, user interview."
+description: "Summarize a customer interview transcript into a structured template with JTBD, satisfaction signals, and action items. Use when processing interview recordings or transcripts, synthesizing discovery interviews, or creating interview summaries."
 ---
 
 ## Summarize Customer Interview

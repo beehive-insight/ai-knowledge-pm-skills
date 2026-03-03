@@ -1,6 +1,6 @@
 ---
 name: brainstorm-experiments-existing
-description: "Design experiments to test assumptions for an existing product. Suggests prototypes, A/B tests, spikes, and other low-effort validation methods. Use when you have assumptions to validate, need experiment ideas before full implementation, or want to test a feature idea cheaply. Triggers: experiment design, test assumptions, validate idea, prototype test, A/B test ideas."
+description: "Design experiments to test assumptions for an existing product — prototypes, A/B tests, spikes, and other low-effort validation methods. Use when validating assumptions, testing feature ideas cheaply, or planning product experiments."
 ---
 
 ## Design Experiments (Existing Product)

@@ -1,6 +1,6 @@
 ---
 name: identify-assumptions-new
-description: "Identify risky assumptions for a new product idea across 8 risk categories including Go-to-Market, Strategy, and Team. Uses multi-perspective analysis. Use when launching a new product, evaluating startup risks, or assessing a new product concept. Triggers: new product risks, startup assumptions, GTM risk, launch risk assessment, new product viability."
+description: "Identify risky assumptions for a new product idea across 8 risk categories including Go-to-Market, Strategy, and Team. Use when evaluating startup risks, assessing a new product concept, or mapping assumptions for a new venture."
 ---
 
 ## Identify Assumptions (New Product)

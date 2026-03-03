@@ -1,6 +1,6 @@
 ---
 name: brainstorm-ideas-existing
-description: "Brainstorm product ideas for an existing product using multi-perspective ideation (PM, Designer, Engineer). Use when a PM wants to generate new feature ideas, brainstorm solutions for an identified opportunity, or ideate with a product trio. Triggers: brainstorm ideas, ideate features, new ideas existing product, product trio ideation, feature brainstorm."
+description: "Brainstorm product ideas for an existing product using multi-perspective ideation from PM, Designer, and Engineer viewpoints. Use when generating new feature ideas, brainstorming solutions for an identified opportunity, or ideating with a product trio."
 ---
 
 ## Brainstorm Product Ideas (Existing Product)

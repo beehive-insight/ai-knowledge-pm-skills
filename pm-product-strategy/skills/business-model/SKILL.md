@@ -1,6 +1,6 @@
 ---
 name: business-model
-description: "Generate a Business Model Canvas with all 9 building blocks. Use when creating a business model or analyzing how a business creates value. Triggers: business model canvas, BMC, business model."
+description: "Generate a Business Model Canvas with all 9 building blocks. Use when creating a business model, documenting how a business creates value, or analyzing an existing business model."
 ---
 # Business Model Canvas
 

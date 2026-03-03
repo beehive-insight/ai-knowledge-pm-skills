@@ -1,6 +1,6 @@
 ---
 name: sprint-plan
-description: "Plan a sprint with capacity estimation, story selection, dependency mapping, and risk identification. Use when preparing for sprint planning, estimating team capacity, selecting stories for a sprint, or balancing sprint scope. Triggers: sprint plan, sprint planning, capacity planning, sprint scope, what fits in the sprint, story points."
+description: "Plan a sprint with capacity estimation, story selection, dependency mapping, and risk identification. Use when preparing for sprint planning, estimating team capacity, selecting stories, or balancing sprint scope against velocity."
 ---
 
 ## Sprint Planning

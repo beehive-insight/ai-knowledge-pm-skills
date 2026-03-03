@@ -1,6 +1,6 @@
 ---
 name: retro
-description: "Facilitate a structured sprint retrospective. Analyzes what went well, what didn't, and generates prioritized action items with owners and deadlines. Use when running a retrospective, reflecting on a sprint, or creating action items from team feedback. Triggers: retro, retrospective, sprint retro, what went well, lessons learned, team reflection."
+description: "Facilitate a structured sprint retrospective — what went well, what didn't, and prioritized action items with owners and deadlines. Use when running a retrospective, reflecting on a sprint, creating action items from team feedback, or learning how to run effective retros."
 ---
 
 ## Sprint Retrospective Facilitator

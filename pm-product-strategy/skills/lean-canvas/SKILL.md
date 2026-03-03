@@ -1,6 +1,6 @@
 ---
 name: lean-canvas
-description: "Generate a Lean Canvas business model with sections for problem, solution, metrics, cost structure, UVP, unfair advantage, channels, segments, and revenue. Triggers: lean canvas, startup canvas, business hypothesis."
+description: "Generate a Lean Canvas with problem, solution, metrics, cost structure, UVP, unfair advantage, channels, segments, and revenue. Use when exploring a lean startup canvas, testing a business hypothesis, or modeling a new venture."
 ---
 # Lean Canvas
 

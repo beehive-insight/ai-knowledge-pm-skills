@@ -1,6 +1,6 @@
 ---
 name: product-vision
-description: "Brainstorm an inspiring, achievable, and emotional product vision that motivates teams. Use when defining or refining product vision. Triggers: product vision, vision statement, create vision, inspiring vision."
+description: "Brainstorm an inspiring, achievable, and emotional product vision that motivates teams and aligns stakeholders. Use when defining or refining a product vision, creating a vision statement, or aligning the team around a shared direction."
 ---
 # Product Vision
 

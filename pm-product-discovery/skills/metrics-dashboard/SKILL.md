@@ -1,6 +1,6 @@
 ---
 name: metrics-dashboard
-description: "Define and design a product metrics dashboard with key metrics, data sources, visualization types, and alert thresholds. Use when creating a metrics dashboard, defining KPIs, setting up product analytics, or building a data monitoring plan. Triggers: metrics dashboard, product dashboard, KPI dashboard, analytics setup, what to track, product metrics, monitoring."
+description: "Define and design a product metrics dashboard with key metrics, data sources, visualization types, and alert thresholds. Use when creating a metrics dashboard, defining KPIs, setting up product analytics, or building a data monitoring plan."
 ---
 
 ## Product Metrics Dashboard

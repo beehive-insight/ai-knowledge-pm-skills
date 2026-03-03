@@ -1,6 +1,6 @@
 ---
 name: cohort-analysis
-description: "Perform cohort analysis on user engagement data. Identifies retention patterns, feature usage trends, and suggests qualitative follow-up research. Use when analyzing user retention by cohort, studying feature adoption over time, or investigating engagement patterns. Triggers: cohort analysis, retention analysis, user cohorts, engagement trends, cohort data."
+description: "Perform cohort analysis on user engagement data — retention curves, feature adoption trends, and segment-level insights. Use when analyzing user retention by cohort, studying feature adoption over time, investigating churn patterns, or identifying engagement trends."
 ---
 
 # Cohort Analysis & Retention Explorer

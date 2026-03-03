@@ -1,6 +1,6 @@
 ---
 name: pre-mortem
-description: "Run a pre-mortem analysis on a PRD. Categorizes risks as Tigers (real problems), Paper Tigers (overblown concerns), and Elephants (unspoken worries), then classifies Tigers as launch-blocking, fast-follow, or track. Use when preparing for launch, risk-assessing a PRD, or stress-testing a product plan. Triggers: pre-mortem, launch risks, what could go wrong, risk analysis PRD, stress test plan."
+description: "Run a pre-mortem risk analysis on a PRD or launch plan. Categorizes risks as Tigers (real problems), Paper Tigers (overblown concerns), and Elephants (unspoken worries), then classifies as launch-blocking, fast-follow, or track. Use when preparing for launch, stress-testing a product plan, or identifying what could go wrong."
 ---
 
 # Pre-Mortem: Risk Analysis for Product Launch

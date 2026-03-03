@@ -1,6 +1,6 @@
 ---
 name: prioritize-features
-description: "Prioritize a backlog of feature ideas based on impact, effort, risk, and strategic alignment. Recommends top 5 features with rationale. Use when prioritizing a feature backlog, making scope decisions, or ranking product ideas. Triggers: prioritize features, feature ranking, backlog prioritization, which features first, scope decision."
+description: "Prioritize a backlog of feature ideas based on impact, effort, risk, and strategic alignment with top 5 recommendations. Use when prioritizing a feature backlog, making scope decisions, or ranking product ideas."
 ---
 
 ## Prioritize Feature Backlog

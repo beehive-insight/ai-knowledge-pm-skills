@@ -1,6 +1,6 @@
 ---
 name: ab-test-analysis
-description: "Analyze A/B test results with statistical significance, sample size validation, confidence intervals, and actionable recommendations. Use when evaluating experiment results, checking if a test is significant, interpreting A/B test data, or deciding whether to ship a variant. Triggers: A/B test, AB test, experiment results, statistical significance, test analysis, split test, which variant won."
+description: "Analyze A/B test results with statistical significance, sample size validation, confidence intervals, and ship/extend/stop recommendations. Use when evaluating experiment results, checking if a test reached significance, interpreting split test data, or deciding whether to ship a variant."
 ---
 
 ## A/B Test Analysis

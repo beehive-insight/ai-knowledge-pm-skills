@@ -1,6 +1,6 @@
 ---
 name: opportunity-solution-tree
-description: "Build an Opportunity Solution Tree (OST) to structure product discovery — map a desired outcome to opportunities, solutions, and experiments. Based on Teresa Torres' Continuous Discovery Habits. Use when structuring discovery work, mapping customer opportunities to solutions, or deciding what to build next. Triggers: opportunity solution tree, OST, discovery tree, Teresa Torres, opportunity mapping, what to build next."
+description: "Build an Opportunity Solution Tree (OST) to structure product discovery — map a desired outcome to opportunities, solutions, and experiments. Based on Teresa Torres' Continuous Discovery Habits. Use when structuring discovery work, mapping opportunities to solutions, or deciding what to build next."
 ---
 
 ## Opportunity Solution Tree (OST)

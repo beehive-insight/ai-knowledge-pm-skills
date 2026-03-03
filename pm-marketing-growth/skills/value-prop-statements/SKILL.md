@@ -1,6 +1,6 @@
 ---
 name: value-prop-statements
-description: "Generate value proposition statements for marketing, sales, and onboarding from existing value propositions. Triggers: value proposition statements, marketing copy, sales messaging, value statements."
+description: "Generate value proposition statements for marketing, sales, and onboarding from existing value propositions. Use when writing marketing copy, creating sales messaging, or crafting onboarding messages."
 ---
 # Value Proposition Statements
 

@@ -1,6 +1,6 @@
 ---
 name: draft-nda
-description: "Draft a detailed Non-Disclosure Agreement between two parties. Covers information types, jurisdiction, and highlights clauses needing legal review. Triggers: NDA, non-disclosure agreement, confidentiality agreement."
+description: "Draft a detailed Non-Disclosure Agreement between two parties covering information types, jurisdiction, and clauses needing legal review. Use when creating confidentiality agreements or preparing an NDA for a partnership."
 ---
 # NDA (Non-Disclosure Agreement) Drafting
 

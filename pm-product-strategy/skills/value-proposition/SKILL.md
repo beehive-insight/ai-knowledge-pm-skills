@@ -1,6 +1,6 @@
 ---
 name: value-proposition
-description: "Generate a detailed value proposition using a 6-part JTBD template (Who, Why, What before, How, What after, Alternatives). Triggers: value proposition, value prop, customer value, JTBD value."
+description: "Design a detailed value proposition using a 6-part JTBD template — Who, Why, What before, How, What after, Alternatives. Use when creating a value proposition, analyzing customer value delivery, or articulating why customers should choose your product."
 ---
 # Value Proposition
 

@@ -1,6 +1,6 @@
 ---
 name: wwas
-description: "Create product backlog items in Why-What-Acceptance format. Produces independent, valuable, testable items with strategic context. Use when writing backlog items or breaking features into work items. Triggers: WWA, why what acceptance, backlog items, work items."
+description: "Create product backlog items in Why-What-Acceptance format — independent, valuable, testable items with strategic context. Use when writing structured backlog items, breaking features into work items, or using the WWA format."
 ---
 # Why-What-Acceptance (WWA)
 

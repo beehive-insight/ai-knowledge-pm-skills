@@ -1,6 +1,6 @@
 ---
 name: create-prd
-description: "Create a Product Requirements Document using a comprehensive 8-section template covering summary, background, objectives, market segments, value propositions, solution details, and release planning. Use when writing a PRD, documenting product requirements, creating a feature spec, or preparing a product brief. Triggers: PRD, product requirements, feature spec, product brief, requirements document."
+description: "Create a Product Requirements Document using a comprehensive 8-section template covering problem, objectives, segments, value propositions, solution, and release planning. Use when writing a PRD, documenting product requirements, preparing a feature spec, or reviewing an existing PRD."
 ---
 
 # Create a Product Requirements Document

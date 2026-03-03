@@ -1,6 +1,6 @@
 ---
 name: sentiment-analysis
-description: "Analyze user feedback data to identify market segments with sentiment scores, JTBD, and product satisfaction insights. Use when analyzing user feedback at scale, running sentiment analysis on reviews or surveys, or identifying user satisfaction patterns. Triggers: sentiment analysis, analyze feedback, user satisfaction, NPS analysis, review analysis."
+description: "Analyze user feedback data to identify segments with sentiment scores, JTBD, and product satisfaction insights. Use when analyzing user feedback at scale, running sentiment analysis on reviews or surveys, or identifying satisfaction patterns."
 ---
 
 # Sentiment Analysis

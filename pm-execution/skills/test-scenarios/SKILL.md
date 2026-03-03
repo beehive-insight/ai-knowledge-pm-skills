@@ -1,6 +1,6 @@
 ---
 name: test-scenarios
-description: "Create comprehensive test scenarios from user stories with test objectives, starting conditions, user roles, step-by-step actions, and expected outcomes. Use when writing QA test cases, creating test plans, or defining acceptance tests. Triggers: test scenarios, test cases, QA scenarios, acceptance tests."
+description: "Create comprehensive test scenarios from user stories with test objectives, starting conditions, user roles, step-by-step actions, and expected outcomes. Use when writing QA test cases, creating test plans, defining acceptance tests, or preparing for feature validation."
 ---
 # Test Scenarios
 

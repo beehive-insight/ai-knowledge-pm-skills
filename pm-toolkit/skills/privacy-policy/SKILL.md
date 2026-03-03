@@ -1,6 +1,6 @@
 ---
 name: privacy-policy
-description: "Draft a detailed privacy policy for a product covering data types, jurisdiction, compliance considerations, and clauses needing legal review. Triggers: privacy policy, data policy, GDPR, data protection."
+description: "Draft a detailed privacy policy covering data types, jurisdiction, GDPR and compliance considerations, and clauses needing legal review. Use when creating a privacy policy, updating data protection documentation, or preparing for compliance."
 ---
 # Privacy Policy Generator
 

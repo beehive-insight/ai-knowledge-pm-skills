@@ -1,6 +1,6 @@
 ---
 name: prioritize-assumptions
-description: "Prioritize assumptions using an Impact × Risk matrix and suggest experiments for each. Use when you have a list of assumptions to triage, need to decide what to test first, or want to apply assumption prioritization canvas. Triggers: prioritize assumptions, assumption matrix, what to test first, risk assessment, assumption canvas."
+description: "Prioritize assumptions using an Impact × Risk matrix and suggest experiments for each. Use when triaging a list of assumptions, deciding what to test first, or applying the assumption prioritization canvas."
 ---
 
 ## Prioritize Assumptions

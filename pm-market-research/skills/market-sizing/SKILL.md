@@ -1,6 +1,6 @@
 ---
 name: market-sizing
-description: "Estimate market size using TAM, SAM, and SOM with top-down and bottom-up approaches. Use when sizing a market opportunity, estimating addressable market, preparing for investor pitches, or evaluating market entry. Triggers: market size, TAM SAM SOM, addressable market, market opportunity, how big is the market, market estimation."
+description: "Estimate market size using TAM, SAM, and SOM with top-down and bottom-up approaches. Use when sizing a market opportunity, estimating addressable market, preparing for investor pitches, or evaluating market entry."
 ---
 
 # Estimate Market Size (TAM, SAM, SOM)

@@ -1,6 +1,6 @@
 ---
 name: sql-queries
-description: "Generate SQL queries from natural language descriptions. Supports BigQuery, PostgreSQL, MySQL, and other SQL dialects. Reads database schemas from uploaded diagrams or documentation. Use when writing SQL queries, analyzing databases, building reports, or exploring data. Triggers: SQL query, write SQL, database query, BigQuery, data report, generate query."
+description: "Generate SQL queries from natural language descriptions. Supports BigQuery, PostgreSQL, MySQL, and other dialects. Reads database schemas from uploaded diagrams or documentation. Use when writing SQL, building data reports, exploring databases, or translating business questions into queries."
 ---
 
 # SQL Query Generator

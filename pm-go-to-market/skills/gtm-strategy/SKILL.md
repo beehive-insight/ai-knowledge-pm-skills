@@ -1,6 +1,6 @@
 ---
 name: gtm-strategy
-description: "Create a go-to-market strategy for a product launch covering marketing channels, messaging, success metrics, and launch plan. Triggers: GTM strategy, go-to-market, launch plan, product launch, market entry."
+description: "Create a go-to-market strategy covering marketing channels, messaging, success metrics, and launch timeline. Use when planning a product launch, creating a GTM plan from scratch, or defining a launch strategy for a new market."
 ---
 # GTM Strategy
 
